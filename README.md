@@ -20,7 +20,8 @@ This project required the use of financial statement data extracted from each co
 - Days Sales Outstanding (DSO)
 - Cash Conversion Cycle (CCC)
 
---
+---
+
 # Project Tools Used
 - Excel: Raw Data Collection, Calculations for Capital Metrics, and Cleaning Data
 - PostgreSQL: Data Storage and SQL Analysis on Capital Metrics
@@ -97,6 +98,8 @@ DSO = Average Receivables / Company Revenue × 365
 CCC = DSO + DIO - DPO
 
 A lower CCC typically indicates a better working capital efficiency because the company converts its operating cycle back into cash faster, making it more liquid.
+
+---
 
 ## SQL Analysis
 
