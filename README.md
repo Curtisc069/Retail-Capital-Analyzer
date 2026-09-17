@@ -1,4 +1,4 @@
-# Retail-Capital-Analyzer
+# Retail Capital Analyzer
 
 ## Project Overview
 Analyzing the Working Capital Efficiency of well known U.S retailer companies using Python, SQL, and Excel
