@@ -123,28 +123,22 @@ Python was used to:
   - Comparing the CCC of each company in 2025 (Bar Graph)
  
 ## Key Findings
-1. Home Depot had the highest Cash Conversion Cycle 
+1. Home Depot had the highest Cash Conversion Cycle
+
 Home Depot had an average CCC of approximately 42 days, significantly higher than the other companies in the dataset. This outcome is mainly due to its relatively high DIO, meaning inventory remained in the operating cycle for longer periods of time compared to the other companies.
 
 2. Target maintained the lowest average Cash Conversion Cycle throughout 2021-2025
 
-Target had the lowest average CCC in the peer group indicating a very strong working capital efficiency compared to the other companies. This may have been due to how high Target's DPO (59 days avg) was compared to its DIO
-(63 days avg). Target's DSO was also especially low meaning that Target could often sell inventory and receive customer income before needing to pay their suppliers for that inventory.
-
-Its relatively high DPO helped offset its inventory holding period, meaning the company often collected cash before fully paying suppliers.
+Target had the lowest average CCC (-1.65 days) in the peer group indicating a very strong working capital efficiency compared to the other companies. This may have been due to how high Target's DPO (59 days avg) was compared to its DIO (63 days avg). Target's DSO was also especially low. As its CCC was -1.65 days, Target was often able to sell inventory and receive customer income before needing to pay their suppliers for that inventory. 
 
 3. Costco showed consistently strong working capital efficiency
 
-Costco maintained a very low CCC throughout the five-year period.
-
-Its inventory turnover and supplier payment timing resulted in a short operating cash cycle.
+Costco maintained a relatively low CCC (1.47 days) throughout the five-year period which was mainly due to its very low DIO (29 days avg) where its DPO was (31 days avg). Therefore, the merchandise were generally being moved in Costco almost as quickly as their supplier payments were due.
 
 4. Best Buy's CCC increased over time
 
-Best Buy's CCC increased from approximately 1 day in 2021 to over 11 days in 2025.
-
-This suggests a deterioration in working capital efficiency over the period.
+Best Buy's CCC increased from 1.17 days in 2021 to about 11.13 days in 2025. This change could be attributed to how although Best Buy's DPO was able to compensate for its inventory period back in 2021-2022, the relationship became less favorable towards the later years leading to a CCC increase. Best Buy showed the clearest decline in working capital performances out of all 5 companies.
 
 5. Walmart remained relatively stable
 
-Walmart maintained a low CCC throughout the period, generally ranging between approximately 1 and 6 days.
+Walmart maintained a low average CCC (3.95) throughout the period, generally ranging between about 1 to 6 days throughout 2021 to 2025. Their working capital performances got worse during 2023, but got better in the following years. This is likely because of the average DIO and DPO being so close together (both approximately 42 days) and the DSO not being too high of a value.
